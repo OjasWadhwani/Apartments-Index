@@ -1,0 +1,177 @@
+[
+  {
+    "title": "The Pavilion",
+    "address": "5441 NE NEast River Rd, Chicago, IL 60656",
+    "rent": "$1,310 - 1,833",
+    "beds": "2 Bed",
+    "phone": "866-794-5357"
+  },
+  {
+    "title": "415 Premier",
+    "address": "415 W Howard St, Evanston, IL 60202",
+    "rent": "$1,995 - 4,255",
+    "beds": "2 Bed",
+    "phone": "224-420-7412"
+  },
+  {
+    "title": "465 North Park",
+    "address": "465 N Park Dr, Chicago, IL 60611",
+    "rent": "$4,360 - 7,630",
+    "beds": "2 Bed",
+    "phone": "844-562-1138"
+  },
+  {
+    "title": "The Cooper",
+    "address": "720 S Wells St, Chicago, IL 60607",
+    "rent": "$3,194 - 6,644",
+    "beds": "2 Bed",
+    "phone": "855-394-3893"
+  },
+  {
+    "title": "Eleven 40",
+    "address": "1136-1140 S Wabash Ave, Chicago, IL 60605",
+    "rent": "$3,510",
+    "beds": "2 Bed",
+    "phone": "844-257-2159"
+  },
+  {
+    "title": "The Paragon",
+    "address": "1326 S Michigan Ave, Chicago, IL 60605",
+    "rent": "$4,125 - 4,690",
+    "beds": "2 Bed",
+    "phone": "844-275-3615"
+  },
+  {
+    "title": "Essex on the Park",
+    "address": "808 S Michigan Ave, Chicago, IL 60605",
+    "rent": "$3,380 - 4,195",
+    "beds": "2 Bed",
+    "phone": "844-255-3461"
+  },
+  {
+    "title": "The Van Buren",
+    "address": "808 W Van Buren St, Chicago, IL 60607",
+    "rent": "$3,400 - 3,750",
+    "beds": "2 Bed",
+    "phone": "844-694-6517"
+  },
+  {
+    "title": "Marlowe",
+    "address": "169 W Huron St, Chicago, IL 60654",
+    "rent": "$3,876 - 5,682",
+    "beds": "2 Bed",
+    "phone": "847-979-4467"
+  },
+  {
+    "title": "5252",
+    "address": "5252 S Cornell Ave, Chicago, IL 60615",
+    "rent": "$3,185 - 6,950",
+    "beds": "2 Bed",
+    "phone": "855-344-9002"
+  },
+  {
+    "title": "Fisher Building City Apartments",
+    "address": "343 S Dearborn St, Chicago, IL 60604",
+    "rent": "$2,135 - 3,670",
+    "beds": "2 Bed",
+    "phone": "844-223-8118"
+  },
+  {
+    "title": "One Superior Place",
+    "address": "1 W Superior St, Chicago, IL 60654",
+    "rent": "$3,618 - 5,358",
+    "beds": "2 Bed",
+    "phone": "312-219-9516"
+  },
+  {
+    "title": "850 Lake Shore Drive",
+    "address": "850 N Lake Shore Dr, Chicago, IL 60611",
+    "rent": "$3,985",
+    "beds": "2 Bed",
+    "phone": "312-462-1903"
+  },
+  {
+    "title": "The Van der Rohe",
+    "address": "2933 N Sheridan Rd, Chicago, IL 60657",
+    "rent": "$2,505 - 2,515",
+    "beds": "2 Bed",
+    "phone": "888-463-3217"
+  },
+  {
+    "title": "Arrive South Loop",
+    "address": "1935 S Wabash Ave, Chicago, IL 60616",
+    "rent": "$1,987 - 4,038",
+    "beds": "2 Bed",
+    "phone": "855-248-5919"
+  },
+  {
+    "title": "Alta at K Station",
+    "address": "555 W Kinzie St, Chicago, IL 60654",
+    "rent": "$3,470 - 4,357",
+    "beds": "2 Bed",
+    "phone": "312-288-8972"
+  },
+  {
+    "title": "Aurelien",
+    "address": "833 N Clark St, Chicago, IL 60610",
+    "rent": "$3,610 - 8,450",
+    "beds": "2 Bed",
+    "phone": "844-489-9630"
+  },
+  {
+    "title": "JeffJack",
+    "address": "601 W Jackson Blvd, Chicago, IL 60661",
+    "rent": "$2,961 - 4,634",
+    "beds": "2 Bed",
+    "phone": "844-443-8919"
+  },
+  {
+    "title": "The Lofts At River East",
+    "address": "401-465 E Illinois St, Chicago, IL 60611",
+    "rent": "$4,180 - 4,925",
+    "beds": "2 Bed",
+    "phone": "844-274-9788"
+  },
+  {
+    "title": "The Apartments at Lincoln Common",
+    "address": "2345 N Lincoln Ave, Chicago, IL 60614",
+    "rent": "$3,738 - 4,057",
+    "beds": "2 Bed",
+    "phone": "844-543-1045"
+  },
+  {
+    "title": "Gold Coast City Club Apartments",
+    "address": "860 N Dewitt Pl, Chicago, IL 60611",
+    "rent": "$2,485 - 3,665",
+    "beds": "2 Bed",
+    "phone": "844-772-4370"
+  },
+  {
+    "title": "Oakwood Chicago River North",
+    "address": "220 W Illinois St, Chicago, IL 60654",
+    "rent": "$3,000 - 3,780",
+    "beds": "2 Bed",
+    "phone": "844-248-8525"
+  },
+  {
+    "title": "The Shelby",
+    "address": "2300 S Michigan Ave, Chicago, IL 60616",
+    "rent": "$2,230 - 2,960",
+    "beds": "2 Bed",
+    "phone": "312-646-4878"
+  },
+  {
+    "title": "1225 Old Town",
+    "address": "1225 N Wells St, Chicago, IL 60610",
+    "rent": "$3,297 - 4,437",
+    "beds": "2 Bed",
+    "phone": "844-841-6325"
+  },
+  {
+    "title": "AMLI River North",
+    "address": "71 W Hubbard St, Chicago, IL 60654",
+    "rent": "$3,925 - 6,936",
+    "beds": "2 Bed",
+    "phone": "844-360-4529"
+  }
+]
